@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UseDiagRuntimeSystem="true" xmlns="http://www.emotive.de/odf">
+  <Project Name="OtxProject7" Path="OtxProject7\OtxProject7.otfPrj" />
+  <StartupProject Name="OtxProject7" />
+  <Config>
+    <MvciServer />
+  </Config>
+  <DiagCom>
+    <ECUMappings />
+  </DiagCom>
+</Solution>
